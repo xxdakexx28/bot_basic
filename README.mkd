@@ -1,6 +1,6 @@
 # clonar git
 
-
+https://github.com/xxdakexx28/bot_basic.git
 
 # crear env
     ```bash
